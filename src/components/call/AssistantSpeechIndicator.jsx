@@ -13,7 +13,7 @@ const AssistantSpeechIndicator = ({ isSpeaking }) => {
         }}
       />
       <p style={{ color: "white", margin: 0 }}>
-        {isSpeaking ? "Assistant speaking" : "Assistant not speaking"}
+        {isSpeaking ? "HR assistant speaking" : "HR assistant not speaking"}
       </p>
     </div>
   );
