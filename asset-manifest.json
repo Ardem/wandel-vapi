@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wandel-vapi/static/css/main.f77f4432.css",
+    "main.js": "/wandel-vapi/static/js/main.455a1dec.js",
+    "index.html": "/wandel-vapi/index.html",
+    "main.f77f4432.css.map": "/wandel-vapi/static/css/main.f77f4432.css.map",
+    "main.455a1dec.js.map": "/wandel-vapi/static/js/main.455a1dec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f77f4432.css",
+    "static/js/main.455a1dec.js"
+  ]
+}
